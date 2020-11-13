@@ -1,0 +1,9 @@
+/*!
+Version: 1.17.16
+*/
+.block-editor-page .wp-block {
+  max-width: 650px; }
+  .block-editor-page .wp-block[data-align="wide"] {
+    max-width: 1040px; }
+  .block-editor-page .wp-block[data-align="full"] {
+    max-width: none; }
